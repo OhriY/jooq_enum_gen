@@ -1,0 +1,6 @@
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\enums\TestEnum.kt
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\DefaultCatalog.kt
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\tables\references\Tables.kt
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\tables\records\TestTableRecord.kt
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\Public.kt
+C:\Users\ouri\IdeaProjects\jooq_enum_gen\src\main\kotlin\jooq_generated\tables\TestTable.kt

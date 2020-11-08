@@ -1,0 +1,23 @@
+version: "3.3"
+
+networks:
+  test:
+
+services:
+  testdb:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: testdb
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: pass_admin
+      POSTGRES_DB: testdb
+    volumes:
+      - ./docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d
+    networks:
+      - test
+
+
